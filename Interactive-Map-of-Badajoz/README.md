@@ -26,14 +26,14 @@ This project focuses on the analysis of population trends in the municipalities 
   - Scale
 - **Tool Used**: QGIS was the main tool used for creating these maps.
 
-![](/img/Interactive-Map-of-Badajoz/static-map.png)
+![](/img/Interactive-Map-of-Badajoz/static-map.gif)
 
 ## Interactive Map
 
 - An interactive map was created using **qgis2web**.
 - The map allows for dynamic exploration of the data, facilitating the visualization and analysis of demographic information at the municipal level.
 
-[CLICK HERE](https://playful-marigold-dcdfed.netlify.app/)
+[CLICK HERE](https://unrivaled-duckanoo-55cb37.netlify.app/)
 
 ## Tools
 
