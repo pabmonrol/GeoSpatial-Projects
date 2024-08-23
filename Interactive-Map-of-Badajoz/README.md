@@ -26,7 +26,9 @@ This project focuses on the analysis of population trends in the municipalities 
   - Scale
 - **Tool Used**: QGIS was the main tool used for creating these maps.
 
-![](/img/Interactive-Map-of-Badajoz/static-map.gif)
+![](/img/Interactive-Map-of-Badajoz/static-map.png)
+
+![](/img/Interactive-Map-of-Badajoz/dynamic-map.gif)
 
 ## Interactive Map
 
