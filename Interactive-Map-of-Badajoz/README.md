@@ -1,4 +1,4 @@
-# GeoSpatial-Projects
+# Interactive-Map-of-Badajoz
 
 This project focuses on the analysis of population trends in the municipalities of the province of Badajoz using data obtained from IDEEX (Spatial Data Infrastructure of Extremadura) and INE (National Statistics Institute of Spain). The project also includes the creation of static and dynamic maps to visualize the data.
 
@@ -26,14 +26,14 @@ This project focuses on the analysis of population trends in the municipalities 
   - Scale
 - **Tool Used**: QGIS was the main tool used for creating these maps.
 
-![](/img/Interactive-Map-of-Badajoz/static-map.png)
+![](/img/Interactive-Map-of-Badajoz/static-map.gif)
 
 ## Interactive Map
 
 - An interactive map was created using **qgis2web**.
 - The map allows for dynamic exploration of the data, facilitating the visualization and analysis of demographic information at the municipal level.
 
-[CLICK HERE](https://heroic-zabaione-177ac3.netlify.app/)
+[CLICK HERE](https://unrivaled-duckanoo-55cb37.netlify.app/)
 
 ## Tools
 
