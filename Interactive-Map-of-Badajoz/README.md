@@ -1,4 +1,4 @@
-# GeoSpatial-Projects
+# Interactive-Map-of-Badajoz
 
 This project focuses on the analysis of population trends in the municipalities of the province of Badajoz using data obtained from IDEEX (Spatial Data Infrastructure of Extremadura) and INE (National Statistics Institute of Spain). The project also includes the creation of static and dynamic maps to visualize the data.
 
