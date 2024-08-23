@@ -33,7 +33,7 @@ This project focuses on the analysis of population trends in the municipalities 
 - An interactive map was created using **qgis2web**.
 - The map allows for dynamic exploration of the data, facilitating the visualization and analysis of demographic information at the municipal level.
 
-[CLICK HERE](https://heroic-zabaione-177ac3.netlify.app/)
+[CLICK HERE](https://playful-marigold-dcdfed.netlify.app/)
 
 ## Tools
 
