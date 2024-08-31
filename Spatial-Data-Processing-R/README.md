@@ -6,4 +6,5 @@
 * Display the layer data in table format
 
 ## 2. municipality_layer_analysis
-Represents the layers of the province of Badajoz provided together with a layer obtained from the Web. Defining appropriate colors for the elements represented in the layers
+* Represents the layers of the province of Badajoz provided together with a layer obtained from the Web
+* Defining appropriate colors for the elements represented in the layers
