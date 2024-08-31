@@ -8,3 +8,5 @@
 ## 2. municipality-layer-analysis
 * Represents the layers of the province of Badajoz provided together with a layer obtained from the Web
 * Defining appropriate colors for the elements represented in the layers
+
+![](/img/Spatial-Data-Processing-R/map.png)
