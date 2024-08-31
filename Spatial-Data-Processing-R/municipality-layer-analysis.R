@@ -20,9 +20,8 @@ summary(census)
 # Auxiliary function to extract a range of columns, indicating the label of the initial column, the final column and the dataframe
 fun_rang <- function(x, y, df){
   df_out <- st_drop_geometry(df)
-  a <- grep(x, colnames(df))
-  b <- grep(y, colnames(df))
-  df_out[a:b]
+  pos <- match(c(x, y), colnames(df))
+  return(df_out[, min(pos):max(pos)])
 }
 
 fun_rang("Ce2019M", "Ce2023T",census)
