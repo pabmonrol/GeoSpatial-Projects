@@ -20,6 +20,7 @@
 * Display selected labels on the map
 * Color each selected town
 * Generate a choropleth map based on the Increment_last_year_perc
+* Generate the map in web format
 
 ![](/img/Spatial-Data-Processing-R/map-increment-filter.png)
 

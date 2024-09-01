@@ -68,6 +68,33 @@ text(
 # Generate a choropleth map based on the Increment_last_year_perc
 plot(census_merge_res[, "Increment_last_year_perc"], main = "Badajoz", key.width = lcm(1.3))
 
+# Generate the map in web format
+tmap_mode('view')
 
+library(tmap)
+
+# Set tmap mode to 'view' for interactive maps
+census_merge_res_filter <- census_merge_res[c(2, 1, 3, 4)]
+town_name <- "Don Álvaro"
+town <- census_merge_res_filter[census_merge_res_filter$NAMEUNIT == town_name,]
+
+tmap_mode('view')
+
+tm_shape(census_merge_res_filter) +
+  tm_fill(alpha = 0) +
+  tm_borders() +
+  tm_text("NAMEUNIT", size = 0.5) +
+  tm_shape(town) +
+  tm_fill("lightgreen") +
+  tm_borders(lwd = 2) +
+  tm_text("NAMEUNIT", size = 0.5) +
+  tm_layout(
+    frame = FALSE,
+    title = town_name,
+    title.size = 1,
+    title.position = c(0.35, "top")
+  )
+
+tmap_mode('plot')
 
 
