@@ -50,7 +50,7 @@ municipio_sel2 <- census_merge_res[census_merge_res$NAMEUNIT == mun[2],]
 municipio_sel3 <- census_merge_res[census_merge_res$NAMEUNIT == mun[3],]
 
 ## Color each selected town
-plot(st_geometry(census_merge_res), axes = TRUE, main = "Granada")
+plot(st_geometry(census_merge_res), axes = TRUE, main = "Badajoz")
 plot(st_geometry(municipio_sel), col = "lightgreen", add = TRUE)
 plot(st_geometry(municipio_sel2), col = "orange", add = TRUE)
 plot(st_geometry(municipio_sel3), col = "blue", add = TRUE)
