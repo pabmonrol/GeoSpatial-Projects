@@ -2,11 +2,11 @@ library(sf)
 library(OpenStreetMap)
 
 # Declare your workspace
-wks <- setwd("C:/Users/ipabl/Desktop/SIG")
+wks <- setwd("workspace")
 
 # Read the municipality layer
-census <- st_read("badajoz_town")
-census_l <- st_read("badajoz_town_lines")
+census <- st_read("file")
+census_l <- st_read("lines_file")
 class(census)
 class(census_l)
 
@@ -20,6 +20,10 @@ census_l_cg <- st_transform(census_l, 4326)
 summary(census_cg)
 
 # Smaller rectangle that encloses the layer
+# st_bbox: el rectángulo mínimo que contiene un objeto espacial
+# st_bbox(census_cg)['ymax']
+# cbind: combina las dos coordenadas en una estructura de dos columnas
+# as.vector: convierte la estructura de 'cbind' en un vector
 up_lef <- as.vector(cbind(st_bbox(census_cg)['ymax'],
                            st_bbox(census_cg)['xmin']))
 down_rig <- as.vector(cbind(st_bbox(census_cg)['ymin'],
