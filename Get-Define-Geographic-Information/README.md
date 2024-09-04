@@ -35,7 +35,7 @@ Observamos que el censo del municipio requiere de 2 cuadrículas cartográficas 
 
 [Education & Towns](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
-<p>
+<p align="center">
   <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="300"/>
   <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="300"/>
   <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="300"/>
