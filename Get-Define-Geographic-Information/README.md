@@ -40,16 +40,16 @@ Observamos que el censo del municipio requiere de 2 cuadrículas cartográficas 
 [Cuadrículas cartográficas](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
 <div style="text-align: center;">
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="200"/>
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <figcaption>Imagen 1</figcaption>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="200"/>
   </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="200"/>
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <figcaption>Imagen 2</figcaption>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="200"/>
   </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="200"/>
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <figcaption>Imagen 3</figcaption>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="200"/>
   </figure>
 </div>
