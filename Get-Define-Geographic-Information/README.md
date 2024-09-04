@@ -41,15 +41,15 @@ Observamos que el censo del municipio requiere de 2 cuadrículas cartográficas 
 
 <div style="text-align: center;">
   <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="400"/>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="200"/>
     <figcaption>Imagen 1</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="400"/>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="200"/>
     <figcaption>Imagen 2</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 10px;">
-    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="400"/>
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="200"/>
     <figcaption>Imagen 3</figcaption>
   </figure>
 </div>
