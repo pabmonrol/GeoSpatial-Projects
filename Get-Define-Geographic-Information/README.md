@@ -33,11 +33,23 @@ Observamos que el censo del municipio requiere de 2 cuadrículas cartográficas 
 
 ## Capas vectoriales sobre temas
 
-[Education & Towns](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
+[Education centers, Towns, Transportation & Hydrographic network](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
-<p align="center">
-  <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="300"/>
-    <figcaption href="https://www.google.com">Album name goes here</figcaption>
-  <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="300"/>
-  <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="300"/>
-</p>
+## Cuadrículas cartográficas que enmarcan el censo del municipio
+
+[Cuadrículas cartográficas](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
+
+<div style="text-align: center;">
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 1" width="400"/>
+    <figcaption>Imagen 1</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 2" width="400"/>
+    <figcaption>Imagen 2</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="/img/Get-Define-Geographic-Information/MTN25.png" alt="Imagen 3" width="400"/>
+    <figcaption>Imagen 3</figcaption>
+  </figure>
+</div>
