@@ -20,12 +20,12 @@ Display the transportation networks.
 ### Hydrographic network
 Display the hydrographic network and reservoirs.
 
-![](/img/Mix-Vectorial-Layers/TransportationNetworks.png)
+![](/img/Mix-Vectorial-Layers/HydrographicNetwork.png)
 
 ## Cartographic grids framing the towns's census
 We observe that the towns's census requires two cartographic grids to be fully covered. This indicates that in the following sections, we may need to work with both and trim them.
 
-![](/img/Mix-Vectorial-Layers/HydrographicNetwork.png)
+![](/img/Mix-Vectorial-Layers/cutMTN25.png)
 
 
 
@@ -39,4 +39,4 @@ We observe that the towns's census requires two cartographic grids to be fully c
 
 [Cartographic grids](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
-![](/img/Mix-Vectorial-Layers/cutMTN25.png)
+![](/img/Mix-Vectorial-Layers/MTN25.png)
