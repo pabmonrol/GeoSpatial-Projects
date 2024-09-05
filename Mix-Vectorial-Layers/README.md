@@ -22,20 +22,20 @@ Display the hydrographic network and reservoirs.
 
 ![](/img/Mix-Vectorial-Layers/TransportationNetworks.png)
 
-# Cartographic grids framing the towns's census
+## Cartographic grids framing the towns's census
 We observe that the towns's census requires two cartographic grids to be fully covered. This indicates that in the following sections, we may need to work with both and trim them.
 
 ![](/img/Mix-Vectorial-Layers/HydrographicNetwork.png)
 
 
 
-# Download links
+## Download links
 
-## Vector layers on topics
+### Vector layers on topics
 
 [Education centers, Towns, Transportation & Hydrographic network](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
-## Cartographic grids framing the municipality's census
+### Cartographic grids framing the municipality's census
 
 [Cartographic grids](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
