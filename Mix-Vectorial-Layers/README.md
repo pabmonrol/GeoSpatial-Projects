@@ -39,4 +39,4 @@ We observe that the towns's census requires two cartographic grids to be fully c
 
 [Cartographic grids](http://sitex.gobex.es/SITEX/centrodescargas/view/2)
 
-![](/img/Mix-Vectorial-Layers/cutMTN25.png)
+![](/img/Mix-Vectorial-Layers/MTN25.png)
