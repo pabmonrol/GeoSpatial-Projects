@@ -3,7 +3,7 @@ In this part of the project, we obtain the census of Don Álvaro and the smalles
 
 > 💡: **At the end of the readme, you will find the download link for all the layers.**
 
-> 📑: **You can consult a detailed study** [HERE](http://sitex.gobex.es/SITEX/centrodescargas/view/2).
+> 📑: **You can consult a detailed study** [HERE](Obtain-Define-Geographic-Information.pdf).
 
 ## Vector layers on topics
 
