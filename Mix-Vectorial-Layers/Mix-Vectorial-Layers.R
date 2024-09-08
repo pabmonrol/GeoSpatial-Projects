@@ -13,8 +13,10 @@ donalvaro <- towns[towns$NAMEUNIT == "Don Álvaro", ]
 # Obtain the smallest rectangle that encompasses the town and assign the same CRS as the town
 donalvaro_bbox <- st_as_sfc(st_bbox(donalvaro, crs = st_crs(donalvaro)))
 
-# Display the town and the rectangle
+# Display the smallest rectangle of the town
 plot(donalvaro_bbox)
+
+# Display the geometry of the town
 plot(st_geometry(donalvaro), add = TRUE)
 
 # Create a .gpkg project with the municipality layer
@@ -32,9 +34,12 @@ grid25 <-
   st_read("MTN25_ETRS89_Peninsula_Baleares_Canarias.shp", options = "ENCODING=WINDOWS-1252")
 grid25 <-
   st_transform(grid25, crs = st_crs(donalvaro_bbox))
-donalvaro_grid25 <- st_crop(cuadricula25, donalvaro_bbox)
+donalvaro_grid25 <- st_crop(grid25, donalvaro_bbox)
 donalvaro_grid25$MTN25_CLAS
 
 st_write(obj = donalvaro_grid25,
          dsn = "layers/donalvaro.gpkg",
          layer = "donalvaro-grid25")
+
+sf::st_layers("donalvaro.gpkg")
+
